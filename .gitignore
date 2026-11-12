@@ -1,0 +1,19 @@
+.idea/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.vscode/
+*.log
+
+# Python cache
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
